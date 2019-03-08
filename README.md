@@ -1,7 +1,7 @@
 ## About
 EPTranslation is a simple translation class without external dependencies.
 
-## Howto use
+## How to use
 ```javascript
 	const EPTranslation = require('eptranslation');
 	const translation = new EPTranslation({
