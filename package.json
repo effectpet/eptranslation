@@ -1,6 +1,6 @@
 {
   "name": "eptranslation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple translation class without external dependencies",
   "main": "index.js",
   "directories": {
